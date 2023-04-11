@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+}
+
+.main-part {
+  flex: 1 0 auto;
+}
